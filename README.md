@@ -1,2 +1,2 @@
 # wordsGame
-##MVVM + SwiftUI
+MVVM + SwiftUI
