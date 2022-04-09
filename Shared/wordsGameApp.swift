@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
+
 struct wordsGameApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartView()
         }
     }
 }
